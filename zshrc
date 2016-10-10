@@ -106,7 +106,7 @@ alias srv="systemctl --user"
 alias gh="githelper.py"
 
 #export PATH=$HOME/bin:/usr/lib/ccache/bin/:$PATH
-export PATH=$HOME/bin:/usr/lib/ccache/bin/:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/core_perl
+export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/core_perl
 
 #source $HOME/projects/deer/deer
 #zle -N deer-launch
